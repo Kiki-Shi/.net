@@ -1,2 +1,4 @@
 # .net
-Basic Knowledge Learning 
+Basic Knowledge Learning(C#|Blazor Sever)
+1、ConsoleDemo
+2、BlazorSeverDemo
